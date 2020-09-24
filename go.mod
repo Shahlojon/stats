@@ -1,4 +1,4 @@
-module github.com/Shahlojon/stats
+module github.com/Shahlojon/stats/v2
 
 go 1.15
 

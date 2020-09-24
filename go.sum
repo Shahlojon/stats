@@ -1,6 +1,2 @@
-github.com/Shahlojon/bank v0.0.0-20200924112712-d72c31f39bb6 h1:TtWXQLYgFXk303tWg6UHh5Qfy9ojVcFTlBfBSDcf7jg=
-github.com/Shahlojon/bank v0.0.0-20200924112712-d72c31f39bb6/go.mod h1:wrwOI2A3c4uTW9mWh0mdFq9DpAlU7r/verosvZW2oSA=
-github.com/Shahlojon/bank v0.0.0-20200924113309-7ad6c3f37bd1 h1:kbwSPzsZocvOlb1GlKtiDSgsgX694MVDLbrXaJEOnnU=
-github.com/Shahlojon/bank v0.0.0-20200924113309-7ad6c3f37bd1/go.mod h1:wrwOI2A3c4uTW9mWh0mdFq9DpAlU7r/verosvZW2oSA=
-github.com/Shahlojon/bank v0.0.0-20200924113708-3010af00e8e8 h1:Gg9IYq+edc/UJvTHvbs6ZTBMB7jQi9mWzEmHMkqU/Wk=
-github.com/Shahlojon/bank v0.0.0-20200924113708-3010af00e8e8/go.mod h1:wrwOI2A3c4uTW9mWh0mdFq9DpAlU7r/verosvZW2oSA=
+github.com/Shahlojon/bank/v2 v2.0.0-20200924131807-57657b3eacbf h1:1WfAm39uamDdzUXPu8OvS1qdwOeHcJPCwz3ooWslOMk=
+github.com/Shahlojon/bank/v2 v2.0.0-20200924131807-57657b3eacbf/go.mod h1:bGOPV0V13Pa+1KqAsEGZdA3jSDho1OEOiDH2OF9btl4=

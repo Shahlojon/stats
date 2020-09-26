@@ -61,7 +61,7 @@ func ExampleTotalInCategory(){
 }
 
 
-func TestCategoriesAvg(t *testing.T) {
+func TestCategoriesAvgUser(t *testing.T) {
 	payments := []types.Payment {
 		{ID: 1, Category: "auto", Amount: 1_000_00},
 		{ID: 2, Category: "auto", Amount: 1_000_00},
